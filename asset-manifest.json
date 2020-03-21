@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phaser-3-react-typescript-platformer/static/css/main.00503b4e.chunk.css",
+    "main.js": "/phaser-3-react-typescript-platformer/static/js/main.9b181d23.chunk.js",
+    "main.js.map": "/phaser-3-react-typescript-platformer/static/js/main.9b181d23.chunk.js.map",
+    "runtime-main.js": "/phaser-3-react-typescript-platformer/static/js/runtime-main.78d4735d.js",
+    "runtime-main.js.map": "/phaser-3-react-typescript-platformer/static/js/runtime-main.78d4735d.js.map",
+    "static/js/2.cc353f70.chunk.js": "/phaser-3-react-typescript-platformer/static/js/2.cc353f70.chunk.js",
+    "static/js/2.cc353f70.chunk.js.map": "/phaser-3-react-typescript-platformer/static/js/2.cc353f70.chunk.js.map",
+    "index.html": "/phaser-3-react-typescript-platformer/index.html",
+    "precache-manifest.fa68596d529005ddd20eef7a9cddd906.js": "/phaser-3-react-typescript-platformer/precache-manifest.fa68596d529005ddd20eef7a9cddd906.js",
+    "service-worker.js": "/phaser-3-react-typescript-platformer/service-worker.js",
+    "static/css/main.00503b4e.chunk.css.map": "/phaser-3-react-typescript-platformer/static/css/main.00503b4e.chunk.css.map",
+    "static/js/2.cc353f70.chunk.js.LICENSE.txt": "/phaser-3-react-typescript-platformer/static/js/2.cc353f70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78d4735d.js",
+    "static/js/2.cc353f70.chunk.js",
+    "static/css/main.00503b4e.chunk.css",
+    "static/js/main.9b181d23.chunk.js"
+  ]
+}
