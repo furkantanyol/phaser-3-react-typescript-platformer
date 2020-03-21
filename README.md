@@ -1,5 +1,7 @@
 # Phaser 3 + React + TypeScript - Old School Platformer Game
 
+DEMO: https://furkantanyol.github.io/phaser-3-react-typescript-platformer/
+
 ![phaser-3-react](https://storage.googleapis.com/spaceocean/phaser-react.png)
 
 Phaser 3 is the latest version of one of the best game development libraries written in JavaScript that allows implementing your ideas into actual game form easily.
